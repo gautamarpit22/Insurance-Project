@@ -14,3 +14,10 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 
 
 In this project we have used Naive Bayes Model and Random forest model for the classification. 
+
+Techniques Used- 
+
+Machine Learning Model - Random forest , Naive bayes
+Programming Language - Python
+Visualization - Seaborn , matplotlib
+Tools - Flask , flasgger
