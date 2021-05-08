@@ -1,7 +1,7 @@
 # Insurance-Project
-Machine Learning POC project with the Insurance client.
+Machine Learning project in the Insurance domain.
 
-We have taken one Kaggle problem to set an apporach while doing one POC project in our current Organization.
+We have taken one Kaggle problem to set an apporach while doing this project.
 
 
 # Use case - 
